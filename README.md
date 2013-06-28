@@ -12,7 +12,6 @@ include sonos
 
 ## Required Puppet Modules
 
-<<<<<<< HEAD
 * `boxen` >= 2.3.1
 
 ## Development
