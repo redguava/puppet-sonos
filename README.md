@@ -1,6 +1,6 @@
 # Sonos Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/redguava/puppet-sonos.png?branch=master)](https://travis-ci.org/redguava/puppet-sonos)
+[![Build Status](https://travis-ci.org/boxen/puppet-sonos.png?branch=master)](https://travis-ci.org/boxen/puppet-sonos)
 
 Install [Sonos](http://www.sonos.com), the wireless hifi system.
 
